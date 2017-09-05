@@ -23,7 +23,7 @@ To solve this problem, open Control Panel and go to System. Inside the OEM secti
 ### Internal Notes
 To solve this problem, open Outlook and go to outbox.
 
-## You’re an Explorer! *** NEEDS TESTING ***
+## The File Called History (Suggested name change?)
 ### Flag
 `pgctf{1nternet_3xplorer_is_m3m3}`
 
@@ -45,7 +45,7 @@ Buried deep in Windows Registry is the flag. When you google “Pseudo-Locales�
 Open 3D Pinball and open the high scores menu.
 
 
-## The Founding Few
+## All My Friends
 ### Flag
 `pgctf{w3_l0ve_y0u}`
 
