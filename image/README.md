@@ -1,7 +1,6 @@
 # Windows XP
 ### Login
-Username: administrator
-Password: welcometopgctf
+welcometopgctf
 
 ## Administrator isn’t alone.
 ### Flag
@@ -23,3 +22,35 @@ To solve this problem, open Control Panel and go to System. Inside the OEM secti
 
 ### Internal Notes
 To solve this problem, open Outlook and go to outbox.
+
+## You’re an Explorer! *** NEEDS TESTING ***
+### Flag
+`pgctf{1nternet_3xplorer_is_m3m3}`
+
+### Internal Notes
+To solve this problem, dig deep into the Internet Explorer search history.
+
+## A little Dev Center told me about Pseudo-Locales
+### Flag
+`pgctf{r3g3d1t_is_m3m3}`
+
+### Internal Notes
+Buried deep in Windows Registry is the flag. When you google “Pseudo-Locales” a registry path for Pseudo-Locales comes up. If you follow it you can find the flag at the bottom of the registry page.
+
+## Windows XP Gaming <3
+### Flag
+`pgctf{br1ng_p1nball_back_2017}`
+
+### Internal Notes
+Open 3D Pinball and open the high scores menu.
+
+
+## The Founding Few
+### Flag
+`pgctf{w3_l0ve_y0u}`
+
+### Internal Notes
+Open Address Book and go to the PGCTF Founding Members group, details tab.
+
+
+
