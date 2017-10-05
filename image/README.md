@@ -23,7 +23,7 @@ To solve this problem, open Control Panel and go to System. Inside the OEM secti
 ### Internal Notes
 To solve this problem, open Outlook and go to outbox.
 
-## The File Called History (Suggested name change?)
+## Internet Explored
 ### Flag
 `pgctf{1nternet_3xplorer_is_m3m3}`
 
@@ -52,5 +52,10 @@ Open 3D Pinball and open the high scores menu.
 ### Internal Notes
 Open Address Book and go to the PGCTF Founding Members group, details tab.
 
+## Kazoo Kid
+### Flag
+`tillzoo`
 
-
+### Internal Notes
+This problem does not follow the usual flag format.
+To complete this problem, open Windows Movie Maker (the best program ever) and go to "open recent" to see the project with the best kazoo player in the history of time.
