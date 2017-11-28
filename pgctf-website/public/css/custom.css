@@ -1,0 +1,69 @@
+.container {
+  background-color white;
+  margin-top: 4em;
+}
+
+.brand-logo {
+  margin-left: 0.5em;
+}
+
+.pg-red {
+  background-color: #7F0011 !important;
+}
+
+.pg-gold {
+  color: #FCBB21;
+  color: -webkit-radial-gradient(#FCDD21, #FCBB21);
+  color: -o-radial-gradient(#FCDD21, #FCBB21);
+  color: -moz-radial-gradient(#FCDD21, #FCBB21);
+  color: radial-gradient(#FCDD21, #FCBB21);
+}
+
+.bash {
+  color: #ADADAD;
+}
+
+.pg-red-text {
+  color: #7F0011 !important;
+}
+
+.twitter {
+  background-color: #0084b4 !important;
+}
+
+.github {
+  background-color: #333 !important;
+}
+
+img.logo {
+  height: 40em;
+  display: block;
+  margin: 0 auto;
+  margin-top: 4em;
+}
+
+/*body.home {
+    background-image: url('../images/copaporterfinal.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 50%;
+}*/
+
+.container-home {
+  margin-top: 5em;
+}
+
+/*.card-img {
+  height: 200px;
+  width: 300px;
+}*/
+
+.parallax-container {
+  height: 40em;
+}
+
+p.json {
+  font-size: 24px;
+  font-family: monospace;
+}

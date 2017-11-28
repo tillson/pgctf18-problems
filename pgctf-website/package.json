@@ -1,0 +1,22 @@
+{
+  "name": "pgctf-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlestruluck/pgctf-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlestruluck/pgctf-web/issues"
+  },
+  "homepage": "https://github.com/charlestruluck/pgctf-web#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
