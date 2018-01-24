@@ -1,9 +1,9 @@
 # PGCTF 2018 Roadmap
 
-15 November - Problem set ideas finished (soft finish, however)  
-18 December - Problem set finished  
+15 November - Problem set ideas finished (soft)  
+18 December - Problem set finished (hard)
 1 January - Problem set *tested*  
-7 January - Any final point value modifications/tweaks finished  
+7 January - Any final point value modifications/problem tweaks finished
 7 January - Logistics finished (location, foodstuffs, etc.)  
 20 January - Server setup finished  
 25 January - Network setup finished  
