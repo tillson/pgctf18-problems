@@ -12,7 +12,7 @@ What happened to Equifax earlier this year?  Specifically in Argentina?
 Flag
 ------------
 
-`I don't know`
+`flag{c4tching_th4t_sw33t_equiflacc}`
 
 
 Internal description
