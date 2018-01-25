@@ -12,7 +12,7 @@ Don't try to do it manually.
 Flag
 ------------
 
-`I don't know`
+`flag{qr-codes-and-scripts}`
 
 
 Internal description
