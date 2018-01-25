@@ -8,7 +8,7 @@ if (!isset($_SESSION['username'])) {
 <html>
   <head>
     <title>Equifax Management Panel</title>
-    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="https://bootswatch.com/4/united/bootstrap.min.css" type="text/css">
     <script src="/assets/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
   </head>
   <body>
