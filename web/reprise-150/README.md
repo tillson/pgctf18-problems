@@ -9,7 +9,7 @@ Everyone knows that [MongoDB is web scale](http://www.mongodb-is-web-scale.com/)
 Flag
 ------------
 
-`I don't know`
+`flag{always_use_3scape_charact3rs_2.0}`
 
 
 Internal description
