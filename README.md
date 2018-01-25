@@ -13,7 +13,7 @@ Point values will be changed closer to competition.
 | **This is my cOEMputer** `40` | _Git'in Jiggy With It_ `150` | _Perfect Disguise_ `75` | **Julius** `25` | - | - |
 | **PGCTF Planning** `50` | _Karma Police Department_ `200` | _The story of the ghost_ `100` | _MD5_ `--` | - | _Stack Smasher_ `150` |
 | **Internet Explored** `--` | _Spitting Venom_ `75` | _Paranoid Android_ `250` | - | - | - |
-| **A little Dev Center told me about Pseudo-Locales** `--` | _Wordpress_ `150` | - | _15 Step_ `200` | - | - |
+| **A little Dev Center told me about Pseudo-Locales** `--` | **Wordpress**`150` | _network data_ `100` | **Drop the base** `200` | - | - |
 | **Windows XP Gaming <3** `--` | _The Final Countdown_ `325` | - | **symbols** `50`| - | _The Return of Tillson Galloway_ `325` |
 | **All My Friends** `--` | - | - | - | - | - |
 | **Kazoo Kid** `--` | - | - | -| - | - |
